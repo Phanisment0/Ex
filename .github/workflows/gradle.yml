@@ -29,4 +29,4 @@ jobs:
         javadoc-branch: javadoc
         java-version: 21
         target-folder: javadoc
-        project: Gradle
+        project: gradle
